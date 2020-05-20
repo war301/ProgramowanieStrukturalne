@@ -1,4 +1,4 @@
-Stan na dzień: 14.05.2020 14:32
+Stan na dzień: 20.05.2020 22:18
 
 | Lista 1 | Lista 2 | Lista 3 | Lista 4 | Lista 5 |
 |---|---|---|---|---|
@@ -8,6 +8,6 @@ Stan na dzień: 14.05.2020 14:32
 |---|---|---|---|---|
 | brak | obec. | 22 pkt | brak | brak |
 
-| Lista 11|
-|---|
-| brak |
+| Lista 11|Lista 12|
+|---|---|
+| brak | brak |
